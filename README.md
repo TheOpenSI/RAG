@@ -24,11 +24,11 @@
 ### Gemma Models
 Gemma models have been identified as not supporting system prompts. This limitation can affect their flexibility and performance in scenarios where initial context-setting or guidance is crucial for generating appropriate responses.
 
-### Minstral Models
-Minstral models support system prompts. This feature allows users to define an initial prompt that sets the context or provides specific instructions for the model
+### Mistral Models
+Mistral models support system prompts. This feature allows users to define an initial prompt that sets the context or provides specific instructions for the model
 
 ### Camel Models
-Similar to Minstral, Camel models also support system prompts.
+Similar to Mistral, Camel models also support system prompts.
 
 ## Useful Resources
 
